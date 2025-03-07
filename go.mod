@@ -1,4 +1,4 @@
-module github.com/atharv-bhadange/grpc-chat
+module github.com/ShreyashPG/chat-application
 
 go 1.21.3
 
